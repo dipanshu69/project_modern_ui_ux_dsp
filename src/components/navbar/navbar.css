@@ -1,0 +1,13 @@
+.dsp3__navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 2rem 6rem;
+    
+}
+
+.dsp3__navbar-links_logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
